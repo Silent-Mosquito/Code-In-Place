@@ -1,4 +1,4 @@
-These are Python codes I made for Standford's Code In Place (CIP) course.
+These are Python codes I made for Stanford's Code In Place (CIP) course.
 
 They only work inside the CIP environment.
 
